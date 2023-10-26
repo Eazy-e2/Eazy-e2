@@ -1,6 +1,6 @@
 ### Bem -vindo ao meu perfil ⚾
 
-Meu nome é Matheus Dias
+Meu nome é Matt
 
 - Estou estudando na [alura]
 - Estou me desenvolvendo na linguagem JavaScript
